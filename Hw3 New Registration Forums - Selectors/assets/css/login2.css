@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(67, 148, 214);
+  }
+
+  .login {
+    text-align: center;
+    background-color: #ffffff;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    border-radius: 4px;
+}
+
+.button {
+    width: 180px;
+    border: none;
+    color: white;
+    background-color: #c72e2e;
+    height: 30px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+  }
